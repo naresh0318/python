@@ -1,0 +1,6 @@
+print("Hey please enter first number")
+one = int (input())
+print("Hey please enter second number")
+two = int (input())
+print("Value of one and two is = ",one,"and",two)
+print("The sum is = ",one * two)
