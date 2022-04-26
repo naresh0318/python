@@ -1,0 +1,22 @@
+A = [
+        [1,2,3],
+        [4,5,6],
+        [7,8,9],
+    ]
+
+n = len(A) #no_of rows
+m = len(A[0]) #no_of coloumns
+
+for i in range(n):
+    for j in range(m):
+        print(A[i][j], end=" ")
+    print()
+
+r = 0
+c = 0
+
+while r<n and c<m:
+    print(A[r][c])
+    r += 1
+    c += 1
+
