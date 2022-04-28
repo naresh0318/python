@@ -11,4 +11,4 @@ def DtoB(n):
     return Binary_string[::-1]
 
 if __name__ == "__main__":
-    print(DtoB(23))
+    print(DtoB(45))
