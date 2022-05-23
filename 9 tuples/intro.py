@@ -5,5 +5,5 @@ print(type(name))
 
 s="add"
 n = int(input())
-for i in s:
+for i in s(1,len(s)):
     print(n*i,end="")

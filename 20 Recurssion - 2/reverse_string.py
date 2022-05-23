@@ -14,7 +14,6 @@ if __name__ == "__main__":
 
 from itertools import count
 
-
 def R(l):
     if len(l) == 0:
         return 0

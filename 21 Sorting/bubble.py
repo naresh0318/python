@@ -7,4 +7,4 @@ def Bubble(A):
     return A
 
 if __name__ == "__main__":
-    print(Bubble([23,3,4,55,6,6,7,123,4,0]))            
+    print(Bubble([23,3,4,55,6,6,7,123,4,0]))             
